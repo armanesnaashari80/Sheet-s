@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "booming-voice-427922-g9",
+  "private_key_id": "3f3dcbe42752d8bcbe717c5d497dcc9adfb3edf2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUzV/Lq0FaXPbp\nVfUOabnT1ybheAzNwwm0TfL9pI2H+HYCUliK4+umXUwJGZuRcSRMCz9cCHCzqSVp\nBjkVDqrzMrkGwTdaEnCeR9CN/fnIXetjkLCuG0/CBNTfy1/2sj4Vu2QiqF4vcrMv\nPNgjdkGDo9/tNkK23aDbyDVuu+ycP6qZ9Ki5qU+t6Q7eVwXDHgPs2/Gq1mw6gEVx\ntkIR0LEH9g7G61O1bQF4FhaVO5klWF996RHfaOCpTujwOL8wJeU7inFebkAWnDtj\nXvMJIXJ5oewm7XLfpbX1fFZvgmlx1SUBABcL52pdugv7q49Or8UGCW6ZwLyy1Sdz\n6rkKCtU/AgMBAAECggEAFfVNNbxppXPjTIeAnmidcrUIP4q+M3s1JKRIdxDEQ+wI\n7Utm9In5NnT5FBVO3q6gkrI0awA59Of2wsQQHtKhJDAvNHm6hvJRKZv6crRq0liS\nofb7rDOIQtpxxtf7An849dAc0JC0C0xYHf82xE3/C6DcyeLn9mufHh6mGNOOYj7l\nPU0wSH85O7LLZe11BlV71fzf1TIJKu0h85VT4GJCIO3ZEQNyN9P//4H5/ZhyPhdF\n6QRHTuOsjSswID05bE51Ao8YwWSZHYgkEaU4RImo0dd4OPu8EgaG3ZfqUSqqzrr9\nyI3Wofoyk2G38Md44ivhlvv5yBx6PQVbDcgHifN8SQKBgQD9J/D30ae4j1bMrzlu\nP+SL3RkZ4Q+qLwAPfcvF06sWjcAU3JX3UPTehNFodZ+OVl6v9qXL3XvuLDHJlOfL\nDZMrXsykP/ZNhD96kAX60LWhS+jqE/pkKL9EqsQSNBlmHPrMDVwtKYXqk1gnTsni\nWwcYaBShZCzBzohH5ehrYbNU+QKBgQDXMWDZ2/fCDQYrXhTKy9TmCKe53Er5gVDR\n5EVcGFyWqnCnJht4eJmu8NiyTcbwYjvgY6b5MRNfhPqMiSCf4sC1eGtgkV3To3t9\nA9R1ZlypR01hrkErwkqEvsZtkUlnhVDkd7bysVhWCFdbbdra+qIdhu/73QEpdFto\nNYSScT3h9wKBgQC6bxe+6d+iw60gwEqDLvqZJhK+REjNBB//SJ0w61ksGuhCdNDc\nefpbhWTSkQ0YPfMtk282W75RAKsJ0WeC2lRvtDjxHUm+fI5jLH264MliKA03lc7o\nxDlX0Irk/QlXcjAg5hXkDJha0HgzOori8DahesT2tldfw0IJ8P7hVepDwQKBgFo3\n5Xbw9cpxU2jTJLxxAG0Aq/EMHpLEWHHm1f1qaUbxZhFttI6pYSUq7G60lPcq+Bd3\nMAXBQXIGelR5GShvFIQAXGQ8Da4xGBCtjmE57Rc7QYH2YHRMHJnSsbY19yRjjCp8\n1kKhf3tyO82lHOA5u8XNUMezPE147umdplsPBva5AoGAEhzpmL5GBrFXjNvpkeFC\n3BAWxVJ7GXVvdapptzL4MJhPJz4CJ4CmYrmjyDUk2wURbgYufBdFWkTjvg+JwAL5\nmH+qL/8+rJDUJI5yYd1nt52WoBPwpi+eci0lmn2s6AAzSiB+rAmPkgJxLSxtj6/Q\ntDTuqKioeVdgd+bBPt7O3Us=\n-----END PRIVATE KEY-----\n",
+  "client_email": "armanesnaapi@booming-voice-427922-g9.iam.gserviceaccount.com",
+  "client_id": "100176535816513498144",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/armanesnaapi%40booming-voice-427922-g9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
