@@ -3,7 +3,6 @@ import pandas as pd
 import gspread
 from google.oauth2.service_account import Credentials
 
-# تنظیمات احراز هویت
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
 creds = Credentials.from_service_account_file("C:/Users/Alijenab/PycharmProjects/pythonProject15/booming-voice-427922-g9-e236735de0f6.json", scopes=scope)
 client = gspread.authorize(creds)
