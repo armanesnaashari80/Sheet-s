@@ -4,8 +4,8 @@ import gspread
 from google.oauth2.service_account import Credentials
 
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-credentials = ServiceAccountCredentials.from_json_keyfile_name('booming-voice-427922-g9-e236735de0f6.json', scope)
-client = gspread.authorize(credentials)
+creds = Credentials.from_service_account_file("booming-voice-427922-g9-e236735de0f6.json", scopes=scope)
+client = gspread.authorize(creds)
 
 sheet_url = "https://docs.google.com/spreadsheets/d/1zs_jjSotWm0Xb09NfVzamGEpzJkX-Gw1FEKBNtuju_0/edit?usp=sharing"
 sheet = client.open_by_url(sheet_url).sheet1
